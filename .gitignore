@@ -1,1 +1,4 @@
 pgdata/
+.env
+.tdx_token.json
+data/
